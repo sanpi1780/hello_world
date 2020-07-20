@@ -1,0 +1,2 @@
+Hello guys,
+in this project we will be working on how to learn backend developement and all its components like database management system.
